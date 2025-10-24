@@ -1,0 +1,2 @@
+UsdcModule#Usdc - 0x83a8DA50273da93d192d7335dceBF06Bc9C35Ea1
+UsdcFaucetModule#Faucet - 0x9b3fF4b7CFcAF3Be70bc9063223C9c13da547E1F
