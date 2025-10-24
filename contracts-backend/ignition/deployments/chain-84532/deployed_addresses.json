@@ -1,3 +1,4 @@
 {
-	"UsdcModule#Usdc": "0x83a8DA50273da93d192d7335dceBF06Bc9C35Ea1"
+  "UsdcModule#Usdc": "0x83a8DA50273da93d192d7335dceBF06Bc9C35Ea1",
+  "AstrodexPair#AstrodexFactory": "0x76993c07234c5965c39A607682Bd02B4aa46adCD"
 }
