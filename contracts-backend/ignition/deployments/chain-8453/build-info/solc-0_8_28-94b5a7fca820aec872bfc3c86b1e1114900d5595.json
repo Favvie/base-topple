@@ -1,0 +1,39 @@
+{
+  "_format": "hh3-sol-build-info-1",
+  "id": "solc-0_8_28-94b5a7fca820aec872bfc3c86b1e1114900d5595",
+  "solcVersion": "0.8.28",
+  "solcLongVersion": "0.8.28+commit.7893614a",
+  "userSourceNameMap": {
+    "contracts/ExampleExternalContract.sol": "project/contracts/ExampleExternalContract.sol"
+  },
+  "input": {
+    "language": "Solidity",
+    "settings": {
+      "evmVersion": "cancun",
+      "optimizer": {
+        "enabled": true,
+        "runs": 200
+      },
+      "outputSelection": {
+        "*": {
+          "": [
+            "ast"
+          ],
+          "*": [
+            "abi",
+            "evm.bytecode",
+            "evm.deployedBytecode",
+            "evm.methodIdentifiers",
+            "metadata"
+          ]
+        }
+      },
+      "remappings": []
+    },
+    "sources": {
+      "project/contracts/ExampleExternalContract.sol": {
+        "content": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.0; //Do not change the solidity version as it negativly impacts submission grading\n\ncontract ExampleExternalContract {\n    bool public completed;\n\n    function complete() public payable {\n        completed = true;\n    }\n}\n"
+      }
+    }
+  }
+}

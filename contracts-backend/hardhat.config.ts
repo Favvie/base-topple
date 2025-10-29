@@ -47,6 +47,11 @@ const config: HardhatUserConfig = {
 			url: "https://sepolia.base.org",
 			accounts: [configVariable("BASE_SEPOLIA_PRIVATE_KEY")],
 		},
+		baseMainnet: {
+			type: "http",
+			url: "https://mainnet.base.org",
+			accounts: [configVariable("BASE_SEPOLIA_PRIVATE_KEY")],
+		},
 	},
 };
 

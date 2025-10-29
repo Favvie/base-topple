@@ -1,1 +1,6 @@
 UsdcModule#Usdc - 0x83a8DA50273da93d192d7335dceBF06Bc9C35Ea1 UsdcFaucetModule#Faucet - 0x9b3fF4b7CFcAF3Be70bc9063223C9c13da547E1F AstrodexPair#AstrodexFactory - 0x76993c07234c5965c39A607682Bd02B4aa46adCD
+
+base mainnet UsdcModule#Usdc - 0x1Db05326a1D8e038B66924d7f7a2BdBD89A3701D UsdcFaucetModule#Faucet - 0x3D4017a578337694D8916b3c7B5d5ea43Dc551f2 AstrodexPair#AstrodexFactory - 0x99AdDAb9d8f49b9709F42BC81776DC0a403978D1
+
+  contracts/AstrodexFactory.sol:AstrodexFactory
+  Address: 0x99AdDAb9d8f49b9709F42BC81776DC0a403978D1

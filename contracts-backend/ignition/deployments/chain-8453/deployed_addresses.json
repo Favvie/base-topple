@@ -1,0 +1,7 @@
+{
+  "UsdcModule#Usdc": "0x1Db05326a1D8e038B66924d7f7a2BdBD89A3701D",
+  "UsdcFaucetModule#Faucet": "0x3D4017a578337694D8916b3c7B5d5ea43Dc551f2",
+  "AstrodexPair#AstrodexFactory": "0x99AdDAb9d8f49b9709F42BC81776DC0a403978D1",
+  "ExternalContractModule#ExampleExternalContract": "0x3058678c16E634BE4680D0d92F0cBb84a0fb70A2",
+  "StakerModule#Staker": "0x047cA5D823E08F84778a80DA120D655E94f644b4"
+}
